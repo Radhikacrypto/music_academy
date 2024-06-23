@@ -6,7 +6,7 @@ const musicSchoolContent = [
     {
       title: 'Discover Your Sound with Us: A Personal Journey in Music Mastery',
       description:
-        'Embark on a musical journey that’s uniquely yours. Our personalized instruction adapts to your individual needs, setting the stage for unparalleled growth and creativity. At our music school, your aspirations meet our dedicated support, creating a harmonious path to mastery.',
+        'Embark on a musical journey that is uniquely yours. Our personalized instruction adapts to your individual needs, setting the stage for unparalleled growth and creativity. At our music school, your aspirations meet our dedicated support, creating a harmonious path to mastery.',
         content: (
           <div className="h-full w-full bg-[linear-gradient(to_bottom_right,var(--cyan-500),var(--emerald-500))] flex items-center justify-center text-black font-bold text-2xl text-center">
            YOUR PERSONAL JOURNEY
@@ -16,7 +16,7 @@ const musicSchoolContent = [
     {
       title: 'Discover Your Sound with Us: A Personal Journey in Music Mastery',
       description:
-        'Embark on a musical journey that’s uniquely yours. Our personalized instruction adapts to your individual needs, setting the stage for unparalleled growth and creativity. At our music school, your aspirations meet our dedicated support, creating a harmonious path to mastery.',
+        'Embark on a musical journey that is uniquely yours. Our personalized instruction adapts to your individual needs, setting the stage for unparalleled growth and creativity. At our music school, your aspirations meet our dedicated support, creating a harmonious path to mastery.',
         content: (
           <div className="h-full w-full bg-[linear-gradient(to_bottom_right,var(--cyan-500),var(--emerald-500))] flex items-center justify-center text-black font-bold text-2xl text-center">
            EMBARK YOUR JOURNEY
@@ -26,7 +26,7 @@ const musicSchoolContent = [
     {
       title: 'Discover Your Sound with Us: A Personal Journey in Music Mastery',
       description:
-        'Embark on a musical journey that’s uniquely yours. Our personalized instruction adapts to your individual needs, setting the stage for unparalleled growth and creativity. At our music school, your aspirations meet our dedicated support, creating a harmonious path to mastery.',
+        'Embark on a musical journey that is uniquely yours. Our personalized instruction adapts to your individual needs, setting the stage for unparalleled growth and creativity. At our music school, your aspirations meet our dedicated support, creating a harmonious path to mastery.',
         content: (
           <div className="h-full w-full bg-[linear-gradient(to_bottom_right,var(--cyan-500),var(--emerald-500))] flex items-center justify-center text-black font-bold text-2xl text-center">
            UNPARALLED GROWTH AND CREATIVITY
@@ -47,7 +47,7 @@ const musicSchoolContent = [
     {
       title: 'Cutting-Edge Curriculum',
       description:
-        'Our curriculum is continuously updated to include the latest music education trends and technologies, ensuring you’re always learning with the most current and effective methods. Say goodbye to outdated materials and welcome an education that evolves with the industry.',
+        'Our curriculum is continuously updated to include the latest music education trends and technologies, ensuring you ire always learning with the most current and effective methods. Say goodbye to outdated materials and welcome an education that evolves with the industry.',
         content: (
           <div className="h-full w-full bg-[linear-gradient(to_bottom_right,var(--cyan-500),var(--emerald-500))] flex items-center justify-center text-black font-bold text-2xl text-center">
            MARVELOUS CURRICULUM
@@ -58,7 +58,7 @@ const musicSchoolContent = [
     {
       title: 'Limitless Learning Opportunities',
       description:
-        'With our expansive resource library and dynamic course offerings, you’ll never find yourself without something new to explore. Our platform provides continuous opportunities for growth, ensuring your musical skills are always advancing.',
+        'With our expansive resource library and dynamic course offerings, you ill never find yourself without something new to explore. Our platform provides continuous opportunities for growth, ensuring your musical skills are always advancing.',
         content: (
           <div className="h-full w-full bg-[linear-gradient(to_bottom_right,var(--cyan-500),var(--emerald-500))] flex items-center justify-center text-black font-bold text-2xl text-center">
            LIMITLESS OPPURTUNITIES
